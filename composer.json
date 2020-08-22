@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/http": "^1.0",
+        "ext-json": "*",
+        "voryx/websocketmiddleware": "^2.0",
+        "ext-v8js": "*"
+    }
+}
